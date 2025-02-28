@@ -1,2 +1,2 @@
 # Crop-Fields-Detection
-In this project, I want to share my approach to detecting and segmenting crop fields in aerial images.
+In this project, I want to share my approach to identifying crop fields in aerial images using image processing techniques.
